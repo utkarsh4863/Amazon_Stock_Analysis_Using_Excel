@@ -73,7 +73,8 @@ Derived columns included in the workbook:
 
 Below is a preview of the **Amazon Stock Analysis Excel Dashboard**, showcasing interactive KPIs, charts, and slicers for stock price and volume analysis.
 
-![Amazon Stock Analysis Dashboard](./dashboard_screenshot.png)
+![Amazon Stock Analysis Dashboard](https://raw.githubusercontent.com/utkarsh4863/Amazon_Stock_Analysis_Using_Excel/main/Screenshot.png)
+
 
 ---
 
